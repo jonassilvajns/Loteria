@@ -1,5 +1,5 @@
 
-## Lotery app
+## Lottery app
 
 ###
 
